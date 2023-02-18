@@ -3,7 +3,7 @@ pragma solidity 0.8.17;
 
 /* solhint-disable reason-string */
 
-import "@openzeppelin/contracts/access/Ownable.sol";
+import "openzeppelin-contracts/access/Ownable.sol";
 import "./IPaymaster.sol";
 import "./EntryPoint.sol";
 
